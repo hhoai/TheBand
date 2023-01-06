@@ -95,7 +95,7 @@ html {
 
 #slider {
     margin-top: 46px;
-    background: url("/img/slider/slider1.jpg");
+    background: url("./img/slider/slider1.jpg");
     background-position: top center;
     background-size: cover; /* background full thẻ; // contain: giữ nguyên ảnh */
     background-repeat: no-repeat;
